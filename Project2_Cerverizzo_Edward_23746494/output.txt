@@ -1,0 +1,12 @@
+First polynomial: 3x^5+2x^3-8
+Second polynomial: -3+7x^6-2x^3
+First polynomial (reduced): 
+ + 3x^5  + 2x^3 -8x^1  + 0x^0 
+Second polynomial (reduced): 
+ + 7x^6 -2x^3 -3x^0 
+operator+ demo: 
+ + 7x^6  + 3x^5  + 0x^3 -8x^1 -3x^0 
+operator- demo: 
+-7x^6  + 3x^5  + 4x^3 -8x^1  + 3x^0 
+operator* demo: 
+ + 21x^11  + 14x^9 -6x^8 -56x^7 -4x^6 -9x^5  + 16x^4 -6x^3  + 24x^1  + 0x^0 
